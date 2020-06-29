@@ -1,5 +1,5 @@
 # amendments2020
-Textual diff for Russia's Constitutional Amendments 2020
+Textual diff for Russia's Constitution Amendments 2020
 
 Актуальная на момент написания редакция Конституции взята отсюда:\
 http://constitution.kremlin.ru/
