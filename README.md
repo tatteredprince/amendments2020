@@ -16,12 +16,12 @@ http://duma.gov.ru/news/48045/
 
 Окончательный вариант хранится в файле next.
 
-Получить diff:
-```diff -u now next```
+Получить diff:\
+`diff -u now next`
 
-Или в два столбца:
-```diff -y now next```
+Или в два столбца:\
+`diff -y now next`
 
-Патч создан командой:
-```diff -u now next > patch```
+Патч создан командой:\
+`diff -u now next > patch`
 
